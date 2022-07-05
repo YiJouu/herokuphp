@@ -1,0 +1,14 @@
+{
+    "name": "yijou/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Liao Yi Jou",
+        "email": "20026745@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
